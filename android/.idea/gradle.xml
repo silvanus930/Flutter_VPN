@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/git/flutter_inapp_purchase-dd1d011ab1ea15e85d50a2d39f3141b51ee2d376/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/country_codes-2.2.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-10.0.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_core-2.3.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_crashlytics-3.0.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-2.3.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/in_app_update-4.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/package_info_plus-3.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.21/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.14/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite-2.2.0+3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.22/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.9/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/wakelock-0.6.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.10.4/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/vpnLib" />
+            <option value="$PROJECT_DIR$/../../../../../FlutterPlugin/openvpn_flutter/android" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

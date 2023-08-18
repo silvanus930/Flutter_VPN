@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nerdvpn.vpn.app-mergeDebugResources-33:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-3\\bd0580d41480972683e287afb638d687\\transformed\\appcompat-1.4.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "108,177,246,316,390,466,525,596",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "172,241,311,385,461,520,591,659"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-3\\46763189ce5280ebf39a67a1f4fc471f\\transformed\\jetified-openvpn_library-5f06771b85\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,41",
+                        "endOffsets": "103,145"
+                    },
+                    "to": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,664",
+                        "endColumns": "52,41",
+                        "endOffsets": "103,701"
+                    }
+                }
+            ]
+        }
+    ]
+}

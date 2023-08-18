@@ -1,0 +1,39 @@
+{
+  "project_info": {
+      "project_number": "401791148998",
+      "project_id": "nerd-vpn-305cc",
+      "storage_bucket": "nerd-vpn-305cc.appspot.com"
+  },
+  "client": [{
+      "client_info": {
+          "mobilesdk_app_id": "1:401791148998:android:ed72d1d1c3cf3d231608c7",
+          "android_client_info": {
+              "package_name": "com.nerdvpn.vpn"
+          }
+      },
+      "oauth_client": [{
+          "client_id": "401791148998-f5vtsrgv586ueuigce46l6pi5vooumo9.apps.googleusercontent.com",
+          "client_type": 3
+      }],
+      "api_key": [{
+          "current_key": "AIzaSyBJz8NUzYGYqI32ECHe-89JKCtlxiwAcCA"
+      }],
+      "services": {
+          "appinvite_service": {
+              "other_platform_oauth_client": [{
+                      "client_id": "401791148998-f5vtsrgv586ueuigce46l6pi5vooumo9.apps.googleusercontent.com",
+                      "client_type": 3
+                  },
+                  {
+                      "client_id": "401791148998-3d2t1rr5v7ddf471f5o6nr1sqo6fj19e.apps.googleusercontent.com",
+                      "client_type": 2,
+                      "ios_info": {
+                          "bundle_id": "com.nerdvpn.app"
+                      }
+                  }
+              ]
+          }
+      }
+  }],
+  "configuration_version": "1"
+}
